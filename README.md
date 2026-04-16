@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-I'm a **System Engineer turned AI/ML Engineer** based in Malaysia, currently completing my **MSc in Data Science** at Universiti Teknologi PETRONAS (CGPA: 3.92).
+I'm a **System Engineer turned AI/ML Engineer** based in Malaysia, currently completing my **MSc in Data Science** at Universiti Teknologi PETRONAS.
 
 My thesis explores a **multimodal RAG framework** using GPT-4o Vision, ChromaDB, and cross-encoder reranking — applied to semiconductor SOP documents. I build things that are actually useful in production.
 
